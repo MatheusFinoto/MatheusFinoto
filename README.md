@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusFinoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-finoto-a69949138/)](https://www.linkedin.com/in/matheus-finoto-a69949138/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.finoto@gmail.com)](mailto:matheus.finoto@gmail.com)
 
-Im am a flutter developer  :blue_heart:
+- I'm am a flutter developer  :blue_heart:
+- I’m currently learning node-js :green_heart:
 
 
 <!--
