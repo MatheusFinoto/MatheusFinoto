@@ -6,6 +6,10 @@
 - I'm am a flutter developer  :blue_heart:
 - I’m currently learning node-js :green_heart:
 
+![Matheus Stats](https://github-readme-stats.vercel.app/api?username=MatheusFinoto)
+
+![Matheus Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFinoto&hide=html&layout=compact)
+
 
 <!--
 **MatheusFinoto/MatheusFinoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
