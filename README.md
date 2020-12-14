@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Recent Acitivies ✨
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfinoto&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=matheusfinoto&theme=radical&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFinoto&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=MatheusFinoto&theme=radical&show_icons=true" /></td>
   </tr>  
 </table>
 </center>
+-->
